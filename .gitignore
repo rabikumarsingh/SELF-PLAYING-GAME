@@ -1,1 +1,4 @@
-Nothing should be ignored in this case, as the changes only include source/config files (index.html) and documentation (README.md).
+```
+# CI/CD
+.github/workflows/
+```
